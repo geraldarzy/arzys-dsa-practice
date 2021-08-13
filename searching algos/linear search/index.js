@@ -23,3 +23,5 @@ function linearSearch (num,arr) {
 }
 
 console.log(linearSearch(12,[1,5,8,100,12,3,12]))
+// the big o of that is O(n) bc as number of arr grows so does the time
+// O(n) === linear
